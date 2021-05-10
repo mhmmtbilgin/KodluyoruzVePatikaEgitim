@@ -1,0 +1,97 @@
+body {
+    background-color: papayawhip;
+}
+#menu {
+
+    background-color: #fff;
+    border-radius: 15px;
+    height: 30px;
+    
+    
+    
+}
+
+#menu a {
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    
+    margin-left: 130px;
+}
+#title1 {
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+    
+
+}
+
+
+
+#about {
+    
+    color:brown;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.about-description {
+    color: black;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+#title4 {
+    color: brown;
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#list {
+    list-style-position: inside;
+}
+
+
+li{
+    color: brown;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+#title3 {
+
+    color: brown;
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title4-breaking{
+    color: brown;
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.photo {
+    text-align:  center;
+}
+
+#content-breaking {
+    color: black;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+#contact {
+    color: black;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+
