@@ -1,0 +1,174 @@
+body, input , button {
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #222;
+}
+
+
+.all {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    font-family: arial,sans-serif;
+
+
+}
+.top-line {
+    display: inline-block;
+    flex-grow: 1;
+    width: 100%;
+    height: 40%;
+    padding: 4px;
+}
+.top-menu {
+    width: 100%;
+    height: 30%;
+    float: right;
+
+
+}
+
+.top-menu-left {
+    width: 7%;
+    height: 30%;
+    float: right;
+}
+
+.top-menu-right {
+    width: 10%;
+    height: 30%;
+    margin-top: 20px;
+    float: right;
+
+    
+}
+.top-menu-right a{
+    text-decoration: none;
+    color: rgb(24, 24, 24);
+    
+}
+.top-line img {
+    float: right;
+
+}
+.head-line {
+    width: 100%;
+   
+
+}
+
+.pics {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.middle-line{
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+
+
+}
+.search {
+    width:35%;
+    text-align: left;
+    height: 35px;
+    border-width:1px;
+    border-radius: 20px;
+    border-color: rgb(212, 209, 209);
+  
+   
+    
+
+}
+.search:hover {
+    width: 35%;
+    height: 35px;
+    border-width:1px;
+    border-radius: 20px;
+    border-color: rgb(212, 209, 209);
+    box-shadow: 3px 3px 4px rgb(117, 113, 113);
+    
+}
+
+.search-btn{
+
+    text-align: center;
+
+
+}
+
+.search-btn-a{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.low-line-lang{
+    text-align: center;
+    margin-top: 15px;
+    
+
+}
+.low-line-lang a{
+    text-decoration: none;
+    
+    
+
+}
+
+.footer-line {
+    margin: 204px -5px -5px 0px;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(231, 231, 231);
+    border-radius: 3px;
+}
+.footer-line-top {
+    font-family:Arial, sans-serif;
+    height: 10%;
+    padding: 15px 30px;
+   
+    font-size: 15px;
+    color: rgba(0,0,0,0.54);
+    border-bottom: 1px solid #c5c5c5;
+}
+.footer-line-bottom {
+    margin-top: 25px;
+    
+    
+}
+.footer-line-bottom-a a{
+        float: left;
+        text-decoration: none;
+        color:#222 ;
+        margin-left: 4px;
+        
+
+}
+.footer-line-bottom-middle{
+    float: left;
+    margin-left: 250px;
+}
+
+.footer-line-bottom-top {
+
+        float: left;
+        text-decoration:none;
+        color:#222 ;
+        margin-left: 400px;
+}
+
+
